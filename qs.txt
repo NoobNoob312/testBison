@@ -1,0 +1,17 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst mremoteng
+cinst microsoft-teams
+cinst zoiper
+
+cinst office365proplus
+cinst adobereader
+cinst notepadplusplus
+cinst yed
+cinst vscode
+
+cinst googlechrome
+
+cinst powertoys
+cinst javaruntime
