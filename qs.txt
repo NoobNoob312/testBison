@@ -3,10 +3,8 @@ Enable-RemoteDesktop
 
 cinst mremoteng
 cinst microsoft-teams
-cinst zoiper
 
 cinst office365proplus
-cinst adobereader
 cinst notepadplusplus
 cinst yed
 cinst vscode
